@@ -40,7 +40,7 @@ Automation
 
 ```bash
 $ whoami
-mathis
+mathis guellati
 
 $ echo $FOCUS
 build > learn > improve
